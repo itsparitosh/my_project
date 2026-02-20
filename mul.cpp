@@ -15,7 +15,7 @@ int main() {
     sum = firstNumber * secondNumber;
 
     // Display the result
-    cout << firstNumber << " * " << secondNumber << " == " << sum << endl;
+    cout << firstNumber << " * " << secondNumber << " = " << sum << endl;
 
     return 0; // Return 0 to indicate successful program execution
 }
