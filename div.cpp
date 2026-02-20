@@ -12,10 +12,10 @@ int main() {
     cin >> firstNumber >> secondNumber;
 
     // Calculate the sum of the two numbers using the + operator
-    sum = firstNumber * secondNumber;
+    sum = firstNumber / secondNumber;
 
     // Display the result
-    cout << firstNumber << " * " << secondNumber << " = " << sum << endl;
+    cout << firstNumber << " / " << secondNumber << " = " << sum << endl;
 
     return 0; // Return 0 to indicate successful program execution
 }
